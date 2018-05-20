@@ -26,5 +26,8 @@
 $ sudo dnf install git-all
 $ sudo apt install git-all
 
+## CLI
+git log --graph --oneline --all
+
 ## First command
 git help
