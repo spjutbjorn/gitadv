@@ -28,3 +28,5 @@ $ sudo apt install git-all
 
 ## First command
 git help
+
+>git show --pretty=raw head
