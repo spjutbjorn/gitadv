@@ -33,6 +33,7 @@ git help
 [SHA-1 info](https://en.wikipedia.org/wiki/SHA-1)
 >git show --pretty=raw head
 
+>git show-ref
 
 ## Linus comment on the hash weakness
 [Sha-1 collision](https://marc.info/?l=git&m=148787047422954)
