@@ -18,9 +18,13 @@
 [Git](https://git-scm.com/download/win)
 [Chocolatey](https://chocolatey.org/packages/git)
 [Git Extensions](http://gitextensions.github.io/)
+[Commander](http://cmder.net/)
 
 ### Linux
 [Git kraken](https://www.gitkraken.com/download)
 
 $ sudo dnf install git-all
 $ sudo apt install git-all
+
+## First command
+git help
