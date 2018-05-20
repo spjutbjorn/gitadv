@@ -29,4 +29,6 @@ $ sudo apt install git-all
 ## First command
 git help
 
+## SHA-1 hash
+[SHA-1 info](https://en.wikipedia.org/wiki/SHA-1)
 >git show --pretty=raw head
