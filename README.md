@@ -35,5 +35,10 @@ git help
 
 >git show-ref
 
+>git branch -v
+
+## source
+git help gitrevisions
+
 ## Linus comment on the hash weakness
 [Sha-1 collision](https://marc.info/?l=git&m=148787047422954)
