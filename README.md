@@ -31,3 +31,5 @@ git log --graph --oneline --all
 
 ## First command
 git help
+
+git config --global rerere.enabled true
