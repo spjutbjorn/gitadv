@@ -2,32 +2,38 @@
 
 [TOC]
 
-## Installs
+## Git help
 
-### MultiOS
+## Git standard commands
+ These are common Git commands used in various situations:
 
-[VisualStudioCode](https://code.visualstudio.com/download)
+start a working area (see also: git help tutorial)
+   clone      Clone a repository into a new directory
+   init       Create an empty Git repository or reinitialize an existing one
 
-[Markdown viewer for VSCODE](https://marketplace.visualstudio.com/items?itemName=hbrok.markdown-preview-bitbucket)
+work on the current change (see also: git help everyday)
+   add        Add file contents to the index
+   mv         Move or rename a file, a directory, or a symlink
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
 
-### Mac
-[Git](https://git-scm.com/download/mac)
-[Source Tree](https://www.sourcetreeapp.com/)
+examine the history and state (see also: git help revisions)
+   bisect     Use binary search to find the commit that introduced a bug
+   grep       Print lines matching a pattern
+   log        Show commit logs
+   show       Show various types of objects
+   status     Show the working tree status
 
-### Windows
-[Git](https://git-scm.com/download/win)
-[Chocolatey](https://chocolatey.org/packages/git)
-[Git Extensions](http://gitextensions.github.io/)
-[Commander](http://cmder.net/)
+grow, mark and tweak your common history
+   branch     List, create, or delete branches
+   checkout   Switch branches or restore working tree files
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   merge      Join two or more development histories together
+   rebase     Reapply commits on top of another base tip
+   tag        Create, list, delete or verify a tag object signed with GPG
 
-### Linux
-[Git kraken](https://www.gitkraken.com/download)
-
-$ sudo dnf install git-all
-$ sudo apt install git-all
-
-## CLI
-git log --graph --oneline --all
-
-## First command
-git help
+collaborate (see also: git help workflows)
+   fetch      Download objects and refs from another repository
+   pull       Fetch from and integrate with another repository or a local branch
+   push       Update remote refs along with associated objects
